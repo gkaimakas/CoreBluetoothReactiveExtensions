@@ -22,7 +22,7 @@ pod 'CoreBluetoothReactiveExtensions'
 
 ## Author
 
-gkaimakas@gmail.com, gkaimakas@gmail.com
+George Kaimakas, gkaimakas@gmail.com
 
 ## License
 
